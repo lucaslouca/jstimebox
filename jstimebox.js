@@ -209,6 +209,10 @@ var JSTimeBox = function(timeBoxId) {
     function getMinutes() {
         return _minutes;
     }
+	
+	function getAmPm() {
+		return _ampm;
+	}
     
 	////////////////////////////////////////////////
     // EXPORT PUBLIC METHODS
@@ -216,5 +220,6 @@ var JSTimeBox = function(timeBoxId) {
 	exports.getTime     = getTime;
     exports.getHours    = getHours;
     exports.getMinutes  = getMinutes;
+	exports.getAmPm		= getAmPm;
 	return exports;
 }
