@@ -3,7 +3,7 @@ A javascript time field that formats inputted values into 12-hour clock format.
 
 <a href="http://lucaslouca.github.io/jstimebox/" target="_blank">Demo</a>
 
-<img src="https://cloud.githubusercontent.com/assets/10542894/6098126/5b1ea5d4-afd5-11e4-8665-53b481bab334.png" width="450"/>
+<img src="https://cloud.githubusercontent.com/assets/10542894/6479566/886ff13a-c247-11e4-9135-7d9a803790fd.PNG" width="450"/>
 
 ## How to use it
 
