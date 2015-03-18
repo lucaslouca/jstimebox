@@ -1,4 +1,4 @@
-.jsTimeBox * {
+.js-time-box * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
@@ -12,7 +12,7 @@
 	font-family: "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif; 
 }
 
-.jsTimeBox {
+.js-time-box {
     display: inline-block;
     border:1px #c2ebff solid;
     width:280px;
@@ -20,7 +20,7 @@
     border-radius: 3px;
 }
 
-.jsTimeBox .timeBoxInput {
+.js-time-box .time-box-input {
     width:100%;
 	height:2em;
 	margin:0;
@@ -30,7 +30,7 @@
 	text-align: center;
 }
 
-.jsTimeBox .timeBoxInput:focus {
+.js-time-box .time-box-input:focus {
 	height:100%;
 	height:2em;
 	margin:0;

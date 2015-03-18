@@ -15,7 +15,7 @@ var JSTimeBox = function(timeBoxId) {
 	var _input = document.createElement("input");
 	_input.type = "text";
 	_input.placeholder = _placeHolder
-	_input.className = "timeBoxInput"; // set the CSS class
+	_input.className = "time-box-input"; // set the CSS class
 	
 	_input.onfocus = function() {
 		if (this.value == "") {

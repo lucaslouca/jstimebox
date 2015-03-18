@@ -15,13 +15,13 @@ Include the neccesary stylesheet and javascript files:
 
 Include a simple div to hold your datepicker:
 ```
-<div id="timeBox" class="jsTimeBox"></div>
+<div id="my-time-box" class="js-time-box"></div>
 ```
 
 Initialise the time box:
 ```
 <script>
-	var myTimeBox = new JSTimeBox('timeBox');	
+	var myTimeBox = new JSTimeBox('my-time-box');	
 </script>
 ```
 
