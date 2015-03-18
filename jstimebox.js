@@ -221,6 +221,5 @@ var JSTimeBox = function(timeBoxId) {
     exports.getHours    = getHours;
     exports.getMinutes  = getMinutes;
     exports.getAmPm		= getAmPm;
-
-    return exports;
+	return exports;
 }
